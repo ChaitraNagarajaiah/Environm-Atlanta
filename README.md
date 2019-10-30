@@ -31,4 +31,6 @@ Chaitra: Recycling Near You API
 Krithika: User Login & Community Page
 Abbi: User Login & Community Page
 
+![image](https://user-images.githubusercontent.com/50887666/67871258-6edf1500-fb06-11e9-81a2-8d316b81eedc.png)
+
 
